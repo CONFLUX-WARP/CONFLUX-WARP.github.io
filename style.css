@@ -1,1 +1,10 @@
-// placeholder for style.css (' ᐜ ' ꩜ )
+/* placeholder message for style.css (' ᐜ ' ꩜ ) */
+body {
+    background-image: url('resources/carbon.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
+}
